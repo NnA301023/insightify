@@ -25,7 +25,7 @@ A powerful and interactive sales analytics dashboard built with Streamlit, offer
 
 ## 📋 Prerequisites
 
-- Python 3.7+
+- Python 3.12+
 - Required Python packages:
   ```
   streamlit
